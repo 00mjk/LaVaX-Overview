@@ -4,6 +4,8 @@ Vulkan API wrapper of DirectX 12 Ultimate (but uses DXIL instead of SPIR-V)
 
 <img src="https://cdn.wccftech.com/wp-content/uploads/2015/03/Vulkan-API-31.jpg" width="400" alt="DXVulkan"/>
 
+You can participate to beta, development, or just do donation, you can [here](https://github.com/helixd2s/Overview)... 
+
 
 ### Why is need?
 
