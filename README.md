@@ -33,7 +33,8 @@ Vulkan API wrapper of DirectX 12 Ultimate (but uses DXIL instead of SPIR-V)
 - Alpha testing
 - Closed beta testing (for patrons)
 - Open beta testing (for patrons, by invite)
-- Public release + unpublic beta of next (for patrons, by invite)
+- Public release (will placed on our the website)
+- Beta of next release (for patrons, by invite)
 
 
 ### Bug Reporting
