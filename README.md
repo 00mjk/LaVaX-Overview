@@ -29,6 +29,7 @@ You can participate to beta, development, or just do donation, you can [here](ht
 - Support only as Visual Studio 2019 Project, there is NO CMAKE... it made for precise control, for single DLL library
 - It DOES NOT replace the regular Vulkan API in full, but is as similar as possible, which provides portability
 - Required Windows 10 SDK (10.0.19041.0 or higher) for compile that project
+- For maximal semantics, will **require** some extensions for correct usage 
 
 
 ### Stages
