@@ -9,6 +9,12 @@ Vulkan API wrapper of DirectX 12 Ultimate (but uses DXIL instead of SPIR-V)
 You can participate to beta, development, or just do donation, you can [here](https://github.com/helixd2s/Overview)... 
 
 
+### Create a Team...
+
+- Contact with me `helixd.2s18@gmail.com` for development and participation. 
+- You can join into our [Discord](https://discord.gg/nTBsCVf) server, DirectX 12 branch
+
+
 ### Why is need?
 
 - DirectX 12 Ultimate more optimized for games
