@@ -11,7 +11,8 @@ You can participate to beta, development, or just do donation, you can [here](ht
 
 ### Create a Team...
 
-- Contact with me `helixd.2s18@gmail.com` or `helixd2k18#0013` (Discord) for development and participation. 
+- Contact with me `helixd.2s18@gmail.com` for development and participation
+- Contact with me `helixd2k18#0013` by Discord for questions and discussion
 - You can join into our [Discord](https://discord.gg/nTBsCVf) server, DirectX 12 branch
 
 
